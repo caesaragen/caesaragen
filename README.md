@@ -1,5 +1,14 @@
 ### Hi there stranger?👋 Follow the white rabbit! 🐇
 
+- 🔭 I’m currently working on JavaScript and ReactJs
+- 🌱 I’m currently learning NextJs and Express
+- 👯 I’m looking to collaborate on Exciting JavaScript projects to improve my skills.
+- 🤔 I’m looking for help with understanding state management and useContext hook in React.
+- 💬 Ask me about anything.
+- 📫 How to reach me: Email: caesaragen@gmail.com, +254 707571076
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am obsessed with JavaScript, I don't understand all the hate it gets.
+
 
 <!--
 **caesaragen/caesaragen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
