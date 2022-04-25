@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am obsessed with JavaScript, I don't understand all the hate it gets.
 - 🗣️Favorite quote:  *If I must fall I will rise each time a better man. - Dalinar Kholin*
 
-[![wakatime](https://wakatime.com/badge/user/00e97a9c-b14a-475f-af77-714d8a6469d4/project/f28584d3-d0e7-4090-9b23-c55d178e3e99.svg)](https://wakatime.com/badge/user/00e97a9c-b14a-475f-af77-714d8a6469d4/project/f28584d3-d0e7-4090-9b23-c55d178e3e99)
+
 <!--
 **caesaragen/caesaragen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
