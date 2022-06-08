@@ -1,10 +1,10 @@
 ![This is an image](https://image.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg)
 ### Hi there stranger?👋 Follow the white rabbit! 🐇
 
-- 🔭 I’m currently working on JavaScript and ReactJs
-- 🌱 I’m currently learning NextJs and Express
+- 🔭 I’m currently working on JavaScript NodeJs and ReactJs
+- 🌱 I’m currently learning Solidity and Web3
 - 👯 I’m looking to collaborate on Exciting JavaScript projects to improve my skills.
-- 🤔 I’m looking for help with understanding state management and useContext hook in React.
+- 🤔 I’m looking for help with contributing more to open source
 - 💬 Ask me about anything.
 - 📫 How to reach me: Email: caesaragen@gmail.com, +254 707571076
 - 😄 Pronouns: He/Him
