@@ -1,14 +1,14 @@
 ![This is an image](https://image.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg)
 ### Hi there stranger?👋 Follow the white rabbit! 🐇
 
-- 🔭 I’m currently working on JavaScript NodeJs and ReactJs
+- 🔭 My main skills are JavaScript, PHP, MySQL, NodeJs and ReactJs
 - 🌱 I’m currently learning Solidity and Web3
-- 👯 I’m looking to collaborate on Exciting JavaScript projects to improve my skills.
+- 👯 I’m looking to collaborate on Exciting JavaScript and PHP projects.
 - 🤔 I’m looking for help with contributing more to open source
 - 💬 Ask me about anything.
 - 📫 How to reach me: Email: caesaragen@gmail.com, +254 707571076
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am obsessed with JavaScript, I don't understand all the hate it gets.
+- ⚡ Fun fact: I enjoy Cosmere stories, reach out if you are a fan!
 - 🗣️Favorite quote:  *If I must fall I will rise each time a better man. - Dalinar Kholin*
 
 
