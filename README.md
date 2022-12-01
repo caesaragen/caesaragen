@@ -2,7 +2,6 @@
 ### Hi there stranger?👋 Follow the white rabbit! 🐇
 
 - 🔭 My main skills are JavaScript, PHP, MySQL, NodeJs and ReactJs
-- 🌱 I’m looking for work as a junior software engineer
 - 👯 I’m looking to collaborate on Exciting JavaScript and PHP projects.
 - 🤔 I’m looking for help with contributing more to open source
 - 💬 Ask me about anything.
