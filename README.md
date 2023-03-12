@@ -1,7 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/00e97a9c-b14a-475f-af77-714d8a6469d4.svg)](https://wakatime.com/@00e97a9c-b14a-475f-af77-714d8a6469d4)
 ![This is an image](https://image.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg)
 ### Hi there stranger?👋 Follow the white rabbit! 🐇
-
+[![wakatime](https://wakatime.com/badge/user/00e97a9c-b14a-475f-af77-714d8a6469d4.svg)](https://wakatime.com/@00e97a9c-b14a-475f-af77-714d8a6469d4)
 - 🔭 My main skills are JavaScript, PHP, MySQL, NodeJs and ReactJs
 - 👯 I’m looking to collaborate on Exciting JavaScript and PHP projects.
 - 🤔 I’m looking for help with contributing more to open source
