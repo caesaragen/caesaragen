@@ -1,4 +1,3 @@
-![This is an image](https://image.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg)
 ### Hi there stranger?👋 Follow the white rabbit! 🐇
 [![wakatime](https://wakatime.com/badge/user/00e97a9c-b14a-475f-af77-714d8a6469d4.svg)](https://wakatime.com/@00e97a9c-b14a-475f-af77-714d8a6469d4)
 - 🔭 My main skills are JavaScript, PHP, MySQL, NodeJs, React Native and ReactJs
