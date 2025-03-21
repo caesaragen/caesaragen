@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on Exciting JavaScript and PHP projects.
 - 🤔 I’m looking for help with contributing more to open source
 - 💬 Ask me about anything.
-- 📫 How to reach me: Email: caesaragen@gmail.com, +254 707571076
 - ⚡ Fun fact: I enjoy Cosmere stories, reach out if you are a fan!
 - 🗣️Favorite quote:  *If I must fall I will rise each time a better man. - Dalinar Kholin*
 
